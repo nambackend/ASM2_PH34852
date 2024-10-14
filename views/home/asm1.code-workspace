@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../basic_mvc"
+		},
+		{
+			"path": "../../../lab3"
+		},
+		{
+			"path": "../../../ass1hl"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "asm1"
+	}
+}
